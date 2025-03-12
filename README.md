@@ -13,8 +13,8 @@ The **Smart Mirror** is an innovative and interactive mirror that displays usefu
 - 🏠 Smart home integration (IoT support)  
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Python (Flask, FastAPI)  
+- **Frontend:** Pyththon
+- **Backend:** sql 
 - **Hardware:** Raspberry Pi, Monitor, Two-way mirror  
 - **APIs:** OpenWeather API, Google Calendar API, News API  
 - **Voice Recognition:** Google Assistant API / OpenAI Whisper  
